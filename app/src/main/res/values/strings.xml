@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Carsistant</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_mechanics">Map</string>
+    <string name="title_activity_gas_stations">Map</string>
+
+    <string name="title_activity_vehicles">Vehicles</string>
+
+    <string name="title_activity_service_log">ServiceLog</string>
+
+    <string name="title_activity_reminders">Reminders</string>
+
+    <string name="title_activity_service_event">ServiceEvent</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <string name="title_activity_account">Account</string>
+
+    <string name="title_activity_enter_vehicle">EnterVehicle</string>
+
+    <string name="title_activity_vehicle_information">VehicleInformation</string>
+
+    <string name="title_activity_gas_mileage">GasMileage</string>
+
+    <string name="title_activity_repair_info">RepairInfo</string>
+
+    <string name="title_activity_enter_vehicle_history">EnterVehicleHistory</string>
+
+    <string name="title_activity_registration">Registration</string>
+
+    <string name="title_activity_signin">Signin</string>
+
+    <string name="title_activity_maintenance_history">MaintenanceHistory</string>
+
+    <string name="title_activity_repair_menu">RepairMenu</string>
+
+    <string name="title_activity_gas_metrics">GasMetrics</string>
+
+    <string name="title_activity_carsistant">Carsistant</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "695435905271",
+    "firebase_url": "https://carsistantdb.firebaseio.com",
+    "project_id": "carsistantdb",
+    "storage_bucket": "carsistantdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695435905271:android:df123f72216e8fd0",
+        "android_client_info": {
+          "package_name": "com.john.carsistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695435905271-4it50belf3lk4jo6u5guko0trsjlkb4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD74Sgn7fvRMQK8V4fsAdrZoF5hpaaGVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
